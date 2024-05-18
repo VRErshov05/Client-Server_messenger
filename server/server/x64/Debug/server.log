@@ -1,0 +1,5 @@
+﻿  server.cpp
+C:\Users\vrers\OneDrive\Рабочий стол\Прога\Курсовая\server\server.cpp(10,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vrers\OneDrive\Рабочий стол\Прога\Курсовая\server\server.cpp(55,26): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\vrers\OneDrive\Рабочий стол\Прога\Курсовая\server\server.cpp(89,26): warning C4244: инициализация: преобразование "SOCKET" в "int", возможна потеря данных
+  server.vcxproj -> C:\Users\vrers\OneDrive\Рабочий стол\Прога\Курсовая\server\x64\Debug\server.exe
