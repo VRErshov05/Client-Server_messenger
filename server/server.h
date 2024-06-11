@@ -40,6 +40,7 @@ void recvFromClient(int clientNo, string message) {
 	size_t ind = message.find(":");
 	string clNum = message.substr(0, ind);
 	string msg = message.substr(ind+1);
+
 	if (clNum != "all" and clNum != "file" and clNum != "getfile") {
 		int clNo = stoi(clNum);
 		string nummsg = "Message from " + to_string(clientNo) + ": " + msg;
@@ -53,7 +54,8 @@ void recvFromClient(int clientNo, string message) {
 	}
 	else if (clNum == "file") {
 		ifstream ifile;
-		string mmsg = "D:\\Лабы и курсовая С++\\Курсовая\\client\\" + msg;
+		string mmsg = "C:\\Users\\vrers\\OneDrive\\Рабочий стол\\Прога\\Курсовая\\client\\" + msg;
+		//"C:\Users\vrers\OneDrive\Рабочий стол\Прога\Курсовая\client\clientfile.txt"
 		ifile.open(mmsg);
 		if (!ifile.is_open())
 		{

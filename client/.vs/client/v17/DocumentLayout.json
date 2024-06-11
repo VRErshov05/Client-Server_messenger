@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vrers\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0433\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45483FB6-D5EE-41B6-8A50-A79082B70DA6}|client.vcxproj|C:\\Users\\vrers\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0433\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{45483FB6-D5EE-41B6-8A50-A79082B70DA6}|client.vcxproj|solutionrelative:client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{45483FB6-D5EE-41B6-8A50-A79082B70DA6}|client.vcxproj|C:\\Users\\vrers\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0433\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\client\\client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{45483FB6-D5EE-41B6-8A50-A79082B70DA6}|client.vcxproj|solutionrelative:client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45483FB6-D5EE-41B6-8A50-A79082B70DA6}|client.vcxproj|C:\\Users\\vrers\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0433\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45483FB6-D5EE-41B6-8A50-A79082B70DA6}|client.vcxproj|solutionrelative:client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "client.cpp",
               "DocumentMoniker": "C:\\Users\\vrers\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0433\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\client\\client.cpp",
               "RelativeDocumentMoniker": "client.cpp",
               "ToolTip": "C:\\Users\\vrers\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0433\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\client\\client.cpp",
               "RelativeToolTip": "client.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-18T11:18:02.36Z",
               "IsPinned": true,
@@ -36,16 +36,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "client.h",
               "DocumentMoniker": "C:\\Users\\vrers\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0433\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\client\\client.h",
               "RelativeDocumentMoniker": "client.h",
               "ToolTip": "C:\\Users\\vrers\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u0440\u043E\u0433\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\client\\client.h",
               "RelativeToolTip": "client.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-18T11:18:04.589Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
